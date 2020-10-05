@@ -4,6 +4,8 @@ A quick example of how to unofficially use the guagan api through requests.
 
 This uses [deno](//deno.land)
 
+Inspired by comments on [youtube](https://www.youtube.com/watch?v=ZXFmZsv0Ddw).
+
 ## Example
 
 In `example.ts` there's an example on how to use the api.
