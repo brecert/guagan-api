@@ -1,0 +1,7 @@
+{
+  "deno.enable": true,
+  "cSpell.enableFiletypes": [
+    "markdown"
+  ],
+  "cSpell.enabled": true
+}
