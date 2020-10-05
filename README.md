@@ -2,7 +2,7 @@
 
 A quick example of how to unofficially use the guagan api through requests.
 
-This uses [deno](//deno.land)
+This uses [deno](//deno.land).
 
 Inspired by comments on [youtube](https://www.youtube.com/watch?v=ZXFmZsv0Ddw).
 
